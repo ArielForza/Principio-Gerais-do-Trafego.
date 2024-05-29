@@ -9,5 +9,6 @@
 * **Landing Page** – Paginas de destino para propaganda.(Mostra algo especifico sobre o sobre o produto, conforme perfil de cliente, como entrada ou valo avulso da parcela). *Usa criador de paginas*
 * **Impulsionar** – Anuncior em paginas (FaceBook Instagran olx etc). - *Buscar geral sem filtros*.
 * **Conversão** – Tudo que o cliente faz em resposta ao que o gestor ou corretor mandou.(Ha varios tipos de converção) - *Porcentagem entre a ração de resultados*.
-* **Criativo** – Anuncios, (videos, imagens, texto). - *Conseito de ideia aplicada ao anuncio*.
-* **Teasers** –
+* **Criativo** – Anuncios, (videos, imagens, texto). - *Conseito de ideia e arte, aplicada ao anuncio*.
+* **Teasers** – resumos proficionais. (Enviado via WhatsApp).
+*  **Features** - Características de produtos.
