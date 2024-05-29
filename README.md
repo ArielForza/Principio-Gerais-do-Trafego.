@@ -22,6 +22,13 @@
 *  **Subdomínio - Endereçp derivado do dominio principal da pagina. (lp.site.com.br).
 *  **CPL** - Custo por Lead. 
 *  **CPM** - Custo por 1.000 visualizações.
-*  **CPA** - 
-*  **CPV** -
-*  **SEO**
+*  **CPA** - Custo por ação. (CTA).
+*  **CPV** - Custo por visualização.
+*  **CPC** - Custo por Clique
+*  **SEO** - Otimização para mecanismos de pesquisa.
+*  **Lookalike** - Publico Semelhante. (Quando se anucia 2 produtos Iguais ou parecidos). -*LAL*.
+*  **True View for Action** - Botão do YouTube para mais informações (Saiba mais).
+
+
+
+
