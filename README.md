@@ -28,6 +28,8 @@
 *  **SEO** - Otimização para mecanismos de pesquisa.
 *  **Lookalike** - Publico Semelhante. (Quando se anucia 2 produtos Iguais ou parecidos). -*LAL*.
 *  **True View for Action** - Botão do YouTube para mais informações (Saiba mais).
+#
+
 
 
 
