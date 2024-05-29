@@ -19,7 +19,7 @@
 *  **Roas** - Retorno sobre investimentos de Marketing. 
 *  **Ferramentas de Email** - Para envio de email em grnade escala. (EmailChimp, Active, Campaign, etc) - *Ferramentas de espara tambem valem*.
 *  **Domínio** - Endereço da principal pagina. (site.com.br).
-*  **Subdomínio - Endereçp derivado do dominio principal da pagina. (lp.site.com.br).
+*  **Sub-domínio** - Endereçp derivado do dominio principal da pagina. (lp.site.com.br).
 *  **CPL** - Custo por Lead. 
 *  **CPM** - Custo por 1.000 visualizações.
 *  **CPA** - Custo por ação. (CTA).
