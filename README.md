@@ -69,6 +69,17 @@
 * 6 **Avalia e Otimizar campanhas.** -
 #
 
-# 5 - .
+# 5 - O que é PIXEL?
+
+**Pixel é um código de rastreamento, (é chamado tecnicamente de cookie).**
+
+* 1 **FaceBook tem Pixel (cookie)** -
+* 2 **Google Ads tem Pixel (cookie)** -
+* 3 **Google Analytics tem Pixel (cookie)** -
+* 4 **GTA- Tag Manager tem Pixel (cookie)** -
+* 5 **Phonetrack tem Pixel (cookie)** -
+* 6 **OBS. Portais não tem Pixel (cookie)**
+
+ *O **Cookie** Fica na **Head**(cabeça) ou **Body**(corpo) do site.*
 
 
